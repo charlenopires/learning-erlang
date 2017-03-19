@@ -1,0 +1,2 @@
+erlc mathdemo.erl
+erl -noshell -s mathdemo start -s init stop
