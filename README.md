@@ -1,1 +1,1 @@
-# Learning Erlang
+# Learning Erlang through Books
